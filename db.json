@@ -1,6 +1,6 @@
-{
-"event": [
+[
    {
+        "id":1
         category: "",
         title: "",
         description: "",
@@ -12,4 +12,4 @@
         },
    }
 ]
-}
+
