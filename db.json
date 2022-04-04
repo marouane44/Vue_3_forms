@@ -1,0 +1,15 @@
+{
+"event": [
+{
+   category: "",
+        title: "",
+        description: "",
+        location: "",
+        pets: 1,
+        extras: {
+          catering: false,
+          music: false,
+        },
+}
+]
+}
