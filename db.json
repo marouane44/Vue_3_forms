@@ -1,7 +1,7 @@
 {
 "event": [
-{
-   category: "",
+   {
+        category: "",
         title: "",
         description: "",
         location: "",
@@ -10,6 +10,6 @@
           catering: false,
           music: false,
         },
-}
+   }
 ]
 }
